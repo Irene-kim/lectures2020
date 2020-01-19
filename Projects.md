@@ -23,7 +23,8 @@ You're welcome to propose a topic not included in the list below.
 * van den Oord et al, [Wavenet: a generative model for raw audio](https://arxiv.org/pdf/1609.03499.pdf), arXiv 2016, [blog](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
 
 ## Conversational AI
-*  Conversational AI: Haixun Wang's [blog](https://medium.com/gobeyond-ai/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180)
+* Galley and Gao, Neural Approaches to Conversational AI, ICML 2019 [tutorial](https://icml.cc/Conferences/2019/ScheduleMultitrack?event=4342)
+* Conversational AI: Haixun Wang's [blog](https://medium.com/gobeyond-ai/a-reading-list-and-mini-survey-of-conversational-ai-32fceea97180)
 
 ## Graph classification
 * Kipf and Welling, [Semi-supervised classification with graph convolutional networks](https://arxiv.org/pdf/1609.02907.pdf), ICLR 2017
@@ -43,6 +44,10 @@ You're welcome to propose a topic not included in the list below.
 * Mirhoseini et al, [Device placement optimization with reinforcement learning](https://arxiv.org/abs/1706.04972), ICML 2017
 * Mirhoseini et al, [A hierarhical model for device placement](https://openreview.net/pdf?id=Hkc-TeZ0W), ICLR 2018
 * Bello et al, [Neural combinatorial optimization with reinforcement learning](https://arxiv.org/pdf/1611.09940.pdf), ICLR 2017
+
+### Protein structure prediction
+
+* Senior et al, [AlphaFold: Improved protein structure prediction using potentials from deep learning](https://deepmind.com/research/publications/AlphaFold-Improved-protein-structure-prediction-using-potentials-from-deep-learning)
 
 ### Finance
 
