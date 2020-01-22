@@ -10,4 +10,3 @@ Project marking rubrics:
 
 <img src="https://github.com/lse-st449/lectures/blob/master/images/ST449-final-coursework-rubric.png"></img>
 
-Excel file: https://github.com/lse-st449/lectures/blob/master/images/ST449-final-coursework-rubric.xlsb
