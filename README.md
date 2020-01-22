@@ -2,9 +2,9 @@
 
 Course web page for LSE ST449, AI and Deep Learning, LT 2020
 
-/lectures/week* contains the material covered in lectures
+/lectures2020/week* contains the material covered in lectures
 
-/lectures/week*/class contains the class material
+/lectures2020/week*/class contains the class material
 
 Project marking rubrics:
 
